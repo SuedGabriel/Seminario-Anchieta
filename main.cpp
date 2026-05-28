@@ -42,8 +42,6 @@ int main()
         }
         else
         {
-            cout << "Usuario logado com sucesso!\n";
-
             if (bibliotecarioLogado)
             {
                 cout << "2 - Cadastrar livros\n";
